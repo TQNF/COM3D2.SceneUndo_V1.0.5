@@ -14,6 +14,8 @@ CR EditSystem【Ver.3.0.2.3】
 
 ————————————————————————
 
+v2.1.0
+
 CRE.SceneUndo.dll
 
 CR EditSystem\BepInEx\plugins
@@ -21,6 +23,8 @@ CR EditSystem\BepInEx\plugins
 https://github.com/TQNF/COM3D2.CRE.SceneUndo
 
 ————————————————————————
+
+V1.0.5
 
 COM3D2.SceneUndo.dll
 
